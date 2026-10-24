@@ -111,8 +111,13 @@ Android application exploring real-time person segmentation and automatic backgr
 ## `05` / GitHub Analytics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Kavyagpp&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&include_all_commits=true" alt="GitHub statistics"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavyagpp&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top programming languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavyagpp&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA&text_color=8B949E" alt="Top programming languages"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Kavyagpp?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My_Repositories-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+  </a>
 </p>
 
 ---
