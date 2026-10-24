@@ -1,118 +1,208 @@
-<h1 align="center">Hey there, I'm Kavya 💜</h1>
+<!-- ==================== HEADER ==================== -->
 
-<h3 align="center">✨ Thoughtfully Building · Creatively Coding · Constantly Growing ✨</h3>
+<h1 align="center">KAVYA G P</h1>
+
+<h3 align="center">Software Engineer | Full-Stack Developer</h3>
 
 <p align="center">
-  <i>Turning thoughtful ideas into meaningful digital experiences, one line of code at a time.</i>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+ideas+into+working+software;Exploring+full-stack+development;Learning+DSA+and+software+design;Code.+Debug.+Learn.+Repeat." alt="Typing animation"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer+%F0%9F%92%BB;Full-Stack+Development+Enthusiast+%F0%9F%8C%B8;Learning%2C+Building+%26+Growing+%F0%9F%9A%80" alt="Typing SVG" />
+  <code>THINK</code> &nbsp;→&nbsp;
+  <code>BUILD</code> &nbsp;→&nbsp;
+  <code>DEBUG</code> &nbsp;→&nbsp;
+  <code>IMPROVE</code>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Kavyagpp">
+    <img src="https://img.shields.io/badge/GitHub-Kavyagpp-181717?style=flat-square&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kavyagp218/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
 
-## 🌷 A Little About Me
+<!-- ==================== ABOUT ==================== -->
 
-* 🎓 MCA graduate passionate about software development.
-* 💻 I enjoy turning ideas into practical, user-friendly applications.
-* 🌱 Exploring full-stack development and strengthening my problem-solving skills.
-* 🛠️ I love learning new technologies and building projects that challenge me.
-* ✨ I believe in thoughtful design, clean code, and continuous growth.
-* 🎯 My goal is to build technology that makes a meaningful difference.
+## `01` / About Me
+
+```text
+Name       : Kavya G P
+Education  : Master of Computer Applications (MCA)
+Interests  : Software Engineering, Full-Stack Development
+Approach   : Understand the problem. Design the solution. Build it.
+```
+
+I'm a software development enthusiast interested in building practical applications and understanding how software systems work.
+
+* Developing web applications using modern JavaScript technologies.
+* Exploring backend development, REST APIs, and database design.
+* Strengthening Java programming and data structures fundamentals.
+* Interested in maintainable code, problem-solving, and software architecture.
+* Continuously learning through hands-on projects and experimentation.
 
 ---
 
-## 💜 My Tech Universe
+<!-- ==================== TECH STACK ==================== -->
 
-### 💻 Languages
+## `02` / Technical Stack
+
+### Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css" alt="Java, Python, JavaScript, HTML and CSS"/>
 </p>
 
-### 🎨 Frameworks & Libraries
+### Frontend & 3D Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,threejs" alt="React, Next.js, Node.js, Express and Three.js"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,threejs" alt="React, Next.js and Three.js"/>
 </p>
 
-### 🗄️ Databases & Tools
+### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma,firebase,git,github,vscode" alt="MySQL, PostgreSQL, MongoDB, Prisma, Firebase, Git, GitHub and VS Code"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express.js"/>
+</p>
+
+### Databases & ORM
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma,firebase" alt="MySQL, PostgreSQL, MongoDB, Prisma and Firebase"/>
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,aws" alt="Git, GitHub, VS Code, Linux and AWS"/>
 </p>
 
 ---
 
-## 🌟 Things I've Built
+<!-- ==================== PROJECTS ==================== -->
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌿 Virtual Vana — The Herbal Garden</h3>
-      <p>An interactive 3D herbal garden that brings nature and technology together.</p>
-      <p><strong>Tech Stack:</strong></p>
-      <p>Next.js · Three.js · Firebase Authentication · Gemini API</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📋 Project Management Dashboard</h3>
-      <p>A full-stack application designed to simplify task tracking, project organization, and team collaboration.</p>
-      <p><strong>Tech Stack:</strong></p>
-      <p>Next.js · Node.js · Express.js · PostgreSQL · Prisma</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📱 Real-Time Person Segmentation</h3>
-      <p>An Android-based application exploring real-time person segmentation and automatic background replacement.</p>
-      <p><strong>Tech Stack:</strong></p>
-      <p>Android Studio · Python · OpenCV · Machine Learning</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌱 What's Next?</h3>
-      <p>Always exploring new ideas, improving my coding skills, and looking for opportunities to build something meaningful.</p>
-      <p><strong>Current Focus:</strong></p>
-      <p>Problem-Solving · Software Development · Full-Stack Applications</p>
-    </td>
-  </tr>
-</table>
+## `03` / Selected Projects
+
+<p>
+  <sub>PROJECT PORTFOLIO · APPLICATION DEVELOPMENT · ENGINEERING</sub>
+</p>
+
+### 01. Project Management Dashboard
+
+`NEXT.JS` `NODE.JS` `EXPRESS.JS` `POSTGRESQL` `PRISMA`
+
+A full-stack project management application designed to organize projects, manage tasks, and monitor team progress.
+
+**Key Engineering Features**
+
+* REST APIs for project creation, task assignment, and progress tracking.
+* PostgreSQL database management using Prisma ORM.
+* Multiple task views: Board, List, Table, and Timeline.
+* Drag-and-drop task status updates.
+* Debounced search across tasks, projects, and users.
+* Priority filtering and analytics dashboards.
+* Dark mode and team management features.
+
+**Focus:** Full-stack architecture · API development · Database management
 
 ---
 
-## 📊 My GitHub Journey
+### 02. Virtual Vana — Interactive 3D Herbal Garden
+
+`NEXT.JS` `THREE.JS` `FIREBASE AUTH` `GEMINI API`
+
+An interactive 3D herbal garden that combines web development, 3D visualization, and AI-powered assistance.
+
+**Key Engineering Features**
+
+* Interactive 3D environment using Three.js.
+* Web application structure using Next.js.
+* Firebase Authentication for user authentication.
+* Gemini API integration for AI-powered functionality.
+* Environment variables for API configuration.
+
+**Focus:** 3D web development · API integration · Interactive experiences
+
+---
+
+### 03. Real-Time Person Segmentation
+
+`ANDROID STUDIO` `PYTHON` `OPENCV` `MACHINE LEARNING`
+
+An Android-based application exploring real-time person segmentation and automatic background replacement.
+
+**Key Engineering Features**
+
+* Person segmentation using machine learning techniques.
+* Image processing using OpenCV.
+* Automatic background replacement.
+* Application development using Android Studio.
+
+**Focus:** Computer vision · Image processing · Machine learning applications
+
+---
+
+<!-- ==================== CURRENT FOCUS ==================== -->
+
+## `04` / Current Focus
+
+```text
+> Strengthening Java and problem-solving skills
+> Practicing Data Structures and Algorithms
+> Improving full-stack development fundamentals
+> Exploring backend design and database concepts
+> Building reliable and maintainable applications
+```
+
+---
+
+<!-- ==================== GITHUB ANALYTICS ==================== -->
+
+## `05` / GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kavyagpp&show_icons=true&theme=tokyonight&title_color=c084fc&icon_color=c084fc&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavyagpp&layout=compact&theme=tokyonight&title_color=c084fc&hide_border=true" alt="Most used programming languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kavyagpp&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA&rank_icon=github" alt="GitHub statistics"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavyagpp&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA" alt="Most used languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kavyagpp&theme=tokyonight&hide_border=true&ring=c084fc&fire=c084fc&currStreakLabel=c084fc" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=Kavyagpp&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub contribution streak"/>
 </p>
 
 ---
 
-## 🌱 A Thought I Believe In
+<!-- ==================== CONTRIBUTIONS ==================== -->
+
+## `06` / Contribution Activity
 
 <p align="center">
-  <i>"Progress doesn't have to be loud. Sometimes, the most meaningful growth happens one small step at a time."</i> 🌷
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavyagpp&bg_color=1a1b27&color=c9d1d9&line=a78bfa&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph"/>
 </p>
 
 ---
 
-## 💌 Let's Connect!
+<!-- ==================== CONNECT ==================== -->
+
+## `07` / Connect
 
 <p align="center">
   <a href="https://github.com/Kavyagpp">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/kavyagp218/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 <p align="center">
-  💜 Thanks for stopping by! Let's keep learning, building, and growing together.
+  <code>Always learning. Always building. Always improving.</code>
 </p>
 
+<p align="center">
+  <sub>Thanks for visiting my profile.</sub>
+</p>
